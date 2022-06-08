@@ -7,6 +7,7 @@ using TMPro;
 public class GameController : MonoBehaviour
 {
     public GameObject gameOver;
+    public GameObject endGame;
     public static GameController instance;
 
     public int totalScore;
@@ -26,6 +27,11 @@ public class GameController : MonoBehaviour
     public void ShowGameOver()
     {
         gameOver.SetActive(true);
+    }
+
+    public void ShowEndGame()
+    {
+        endGame.SetActive(true);
     }
 
     public void RestartGame(string lvlName)
