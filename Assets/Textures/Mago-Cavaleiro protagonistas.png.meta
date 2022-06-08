@@ -1,0 +1,2234 @@
+fileFormatVersion: 2
+guid: 04730650b73dd17438cfe3d92523e8de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 504
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd66b34120538a42a190da75b63d100
+      internalID: 626746310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 505
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cab867a3e1e4c4f8939cc8348bbcd0
+      internalID: -1897879175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 504
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1ee26d1f74b8449b96dcb6d83897f3
+      internalID: 376698939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 504
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45afe0bb45f20874c892a8a19b23085c
+      internalID: -751442411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 505
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80630e538b831a4c9a022b719065200
+      internalID: 1631347857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 504
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d77a42700ba5cb4a9fa32bf2cb1426e
+      internalID: 1595145497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 504
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41afcc00031ec9047b4d2107b26c5c0e
+      internalID: -744233124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 505
+        width: 43
+        height: 66
+      alignment: 9
+      pivot: {x: 0.48161918, y: 0.47985286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5a396b5ae43c04e88f01dedb1b7b3c
+      internalID: -1752293789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_8
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 504
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32845a7caba85a849882420fb0a3ec69
+      internalID: -222499685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 504
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcde77a57dc5d43b1fc3ea4469e547
+      internalID: 1975016174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 505
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e1f228334449643aa2fc08e9f39e23
+      internalID: -1377351816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 504
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90536c23e1fefdb4887b00417c28954e
+      internalID: -1256190212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 432
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24830135d5079b5478cc1b3256a7e52f
+      internalID: 1408012489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_13
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 432
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b069a3cb82e9be4c9ba1e93e4c0ee89
+      internalID: 1897976073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 432
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fd05ba75233214ebc045efdca81ce6
+      internalID: 1585379210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 432
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc984be92eef104d84cfb8c7dc2248b
+      internalID: 839283556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 432
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c3ff84f2f07a4bb33f2e588f20cd7
+      internalID: -918886274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 432
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7e98d3e90b6f64d886d4fa51eeef9a
+      internalID: -1609589508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 432
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27610b5438587974fae11f56a94cc883
+      internalID: 608301128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 432
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e408f34aeedf14429b51c4836318241
+      internalID: -738355012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_20
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 432
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb4665a24ac870468fedfc3c971e750
+      internalID: -2081080919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 432
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4725a784909ab042aa968672ae80ea8
+      internalID: 681882330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_22
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 432
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3643e37b6ccd8d14fa3cef0809e26be7
+      internalID: -708890774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_23
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 432
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4c9e315d37ffd43be9fefbc4192871
+      internalID: -37564172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 360
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbd2cb59e36eda4aa90859cc50b0797
+      internalID: -1757514245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 360
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100dfc56ae3e712479959a52051e4da8
+      internalID: 750802284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_26
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 360
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f9fe1c42280c4d8998c868e840c14
+      internalID: -1945591651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 360
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e0b1750d7b3904283eb9416363790b
+      internalID: -396337093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 360
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff243ceef75417f4c9dbb6b7df4d3d34
+      internalID: 147724285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_29
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d4c6ff6b473b449f925fac42964f0
+      internalID: -1225593915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 360
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e30b2cfb8f04f4395db213a8f3ae3d
+      internalID: 761875880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_31
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 360
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04a2235414cc0b48b0e101a6ab42c0c
+      internalID: -1843679605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_32
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 360
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ceb2340d709e043baf4d2053bc10a3
+      internalID: -1574232536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 360
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ece167bc3b72f42a0c1e716641437b
+      internalID: -910366822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_34
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 360
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142170025952cb445acca5f8d5e86d30
+      internalID: -766452764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_35
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 360
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1914832b0cb2d244c93f16cf22cf457a
+      internalID: -257921661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 288
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accf92ab0638465439a3aa0257b797cd
+      internalID: 1884515552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 289
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea1b0f2f6af49541a4756401be509da
+      internalID: 805640026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_38
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f238ad6f65914592401583707cc77
+      internalID: 1469555785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_39
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 288
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a74a0ab47d9f04aa73f7ea916f5c83
+      internalID: 171659799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_40
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 289
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8178d8c09c687544ba284fe0efebb7ee
+      internalID: -2002497056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_41
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 288
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d6a36b892b0d44b938e1316feed687
+      internalID: 2089820505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe9fe08b5ca23f419dbf6a1ed820208
+      internalID: -1153121864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_43
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 289
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1ea06ee41152e43908924e86d99bce
+      internalID: 1503171012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 288
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e9bc8252d7fe34fb36eebac77d5d84
+      internalID: 1789602878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_45
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 288
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267a4d59013ed31489fab95669665ba3
+      internalID: -360234076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_46
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 289
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44384f5e6edae864d8f72cc4e9299ba3
+      internalID: 1170475173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_47
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 288
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb6993119ba4dc44a275df50fe70238
+      internalID: -1921506131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 216
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346db04e6b05c7344a0b01d03eeab04e
+      internalID: 239685766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 217
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453b2481ab490284dad38ea6d1b038d9
+      internalID: 852016210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 216
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b858b285590e08948bb98924fa87b494
+      internalID: -62918323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_51
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 216
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f636cfe71197e54684f6bd0e0d8dac7
+      internalID: -1010080294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 217
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd6709fb6ea9645892e079b108dae9
+      internalID: -1015135040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_53
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 216
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c59f58e8f4620d489953779f88c9a2e
+      internalID: -815599173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 216
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe0ad2e25f63a04aab2409315c2223c
+      internalID: 1622463641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 217
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa2625f873ad64d9a618a42d999634
+      internalID: -1186179659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_56
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 216
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e06862cd61f574f9d126347afc211a
+      internalID: -1379920114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_57
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 216
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4917ad63e9a7102489f59e355cb48d07
+      internalID: 1761798023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_58
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 217
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b322ebbee4af794f841b880134eca84
+      internalID: 1429826737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_59
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 216
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eed3f78c182ad9448a7f2300d273223
+      internalID: 140265616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_60
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 144
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b9a592f2c21d446bfd3256d48beee3
+      internalID: -537310268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_61
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 144
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f51641e590c414bbae03fa0638f825
+      internalID: -428876608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_62
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4c88ab9eff8724db241948754da9f1
+      internalID: -735320134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_63
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 144
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd55e07d1a3a424dacab20302738d1d
+      internalID: 1726651117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_64
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 144
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc6d2f2a6718844596cb0c74d441ac6
+      internalID: -90450344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 144
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c6e0b0e1e9a7b4b96adcafd9801fe2
+      internalID: -1567843721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_66
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 144
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e04f8e77c51c44995c24b5e2310457
+      internalID: -1875136972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_67
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 144
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81e25ecec379f84c94e2d1a1e62a2c4
+      internalID: 413546320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_68
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 144
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4f87fbf39ab584fa2a6754507e1143
+      internalID: 1467743426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_69
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 144
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd919ef93d81dfe4798f78f1b79bec4f
+      internalID: -201348214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_70
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 144
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbae94ddc08964090569703a4d6811
+      internalID: 1974072720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_71
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 144
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7808d91e619c27548a9a410b14dcd009
+      internalID: 315044876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_72
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9de89470b338924fa62ef569a1b1d19
+      internalID: 1715227957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_73
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9452e86be27215147a9e2a7c9e857c5f
+      internalID: -373372431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_74
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 72
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252fc2a7f8c33714c8a99d1e6dde0d2f
+      internalID: 957802207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 72
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cef34f1436f8334faf4b5ffb32eb4ff
+      internalID: 1345219164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_76
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 72
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6df50c7faf3545af23e5ae8782556
+      internalID: -598656539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_77
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 72
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76d0ffa391055448a7d62f5d3e0f6d5
+      internalID: 252345852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd5cf33c56c06c48b31a84d16f9f117
+      internalID: -1084018205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_79
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 72
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227cea86cedde894b9c1f942628edd76
+      internalID: 518742183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_80
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 72
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4477aae7c425a4db3ccb297bb4a70a
+      internalID: -1395678310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_81
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 72
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b746cac9bc9bc56468795478636a8c43
+      internalID: 1565159116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_82
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 72
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c35b386c16c794b9ff1595763329bd
+      internalID: 722106983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_83
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 72
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0151ef719416604ea79121a6fc7be86
+      internalID: 965474733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537b43b018d487f4584e391d6a93b1ef
+      internalID: 1957007575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_85
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3631ce1873f8d84ba6505f333bcb197
+      internalID: 961730854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37383f09b0347645957e32691d0d1bf
+      internalID: 21275735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_87
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9e3fc21b419e4abf8a6319773cf5d
+      internalID: -387744136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6abbc14a82c21c4da29a48dadf3e619
+      internalID: 2056600134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_89
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c125cd5546e043641ac719e4ec3b9f62
+      internalID: 2130481531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf39fe0ac9c304db94432833ae634f
+      internalID: -1803698963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_91
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0275f8f58adc72540a963d4ee9147ff8
+      internalID: -660785226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_92
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55d0c6214022fd4ebdd0e60f6d14aad
+      internalID: 832853786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_93
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd00f766e2d3a42bcd092be6feede1
+      internalID: -1350506080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_94
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c5c5f444d7414468aa9be03aa15bc1
+      internalID: -767357502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mago-Cavaleiro protagonistas_95
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77126964b599c140a8289f59e648c78
+      internalID: 1922713226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Mago-Cavaleiro protagonistas_13: 1897976073
+      Mago-Cavaleiro protagonistas_8: -222499685
+      Mago-Cavaleiro protagonistas_20: -2081080919
+      Mago-Cavaleiro protagonistas_61: -428876608
+      Mago-Cavaleiro protagonistas_78: -1084018205
+      Mago-Cavaleiro protagonistas_54: 1622463641
+      Mago-Cavaleiro protagonistas_73: -373372431
+      Mago-Cavaleiro protagonistas_22: -708890774
+      Mago-Cavaleiro protagonistas_84: 1957007575
+      Mago-Cavaleiro protagonistas_34: -766452764
+      Mago-Cavaleiro protagonistas_62: -735320134
+      Mago-Cavaleiro protagonistas_90: -1803698963
+      Mago-Cavaleiro protagonistas_75: 1345219164
+      Mago-Cavaleiro protagonistas_82: 722106983
+      Mago-Cavaleiro protagonistas_15: 839283556
+      Mago-Cavaleiro protagonistas_31: -1843679605
+      Mago-Cavaleiro protagonistas_48: 239685766
+      Mago-Cavaleiro protagonistas_18: 608301128
+      Mago-Cavaleiro protagonistas_44: 1789602878
+      Mago-Cavaleiro protagonistas_3: -751442411
+      Mago-Cavaleiro protagonistas_60: -537310268
+      Mago-Cavaleiro protagonistas_86: 21275735
+      Mago-Cavaleiro protagonistas_43: 1503171012
+      Mago-Cavaleiro protagonistas_40: -2002497056
+      Mago-Cavaleiro protagonistas_55: -1186179659
+      Mago-Cavaleiro protagonistas_88: 2056600134
+      Mago-Cavaleiro protagonistas_91: -660785226
+      Mago-Cavaleiro protagonistas_6: -744233124
+      Mago-Cavaleiro protagonistas_28: 147724285
+      Mago-Cavaleiro protagonistas_39: 171659799
+      Mago-Cavaleiro protagonistas_81: 1565159116
+      Mago-Cavaleiro protagonistas_5: 1595145497
+      Mago-Cavaleiro protagonistas_74: 957802207
+      Mago-Cavaleiro protagonistas_0: 626746310
+      Mago-Cavaleiro protagonistas_51: -1010080294
+      Mago-Cavaleiro protagonistas_49: 852016210
+      Mago-Cavaleiro protagonistas_16: -918886274
+      Mago-Cavaleiro protagonistas_4: 1631347857
+      Mago-Cavaleiro protagonistas_67: 413546320
+      Mago-Cavaleiro protagonistas_56: -1379920114
+      Mago-Cavaleiro protagonistas_79: 518742183
+      Mago-Cavaleiro protagonistas_14: 1585379210
+      Mago-Cavaleiro protagonistas_42: -1153121864
+      Mago-Cavaleiro protagonistas_52: -1015135040
+      Mago-Cavaleiro protagonistas_47: -1921506131
+      Mago-Cavaleiro protagonistas_24: -1757514245
+      Mago-Cavaleiro protagonistas_85: 961730854
+      Mago-Cavaleiro protagonistas_71: 315044876
+      Mago-Cavaleiro protagonistas_53: -815599173
+      Mago-Cavaleiro protagonistas_59: 140265616
+      Mago-Cavaleiro protagonistas_2: 376698939
+      Mago-Cavaleiro protagonistas_94: -767357502
+      Mago-Cavaleiro protagonistas_27: -396337093
+      Mago-Cavaleiro protagonistas_72: 1715227957
+      Mago-Cavaleiro protagonistas_29: -1225593915
+      Mago-Cavaleiro protagonistas_63: 1726651117
+      Mago-Cavaleiro protagonistas_93: -1350506080
+      Mago-Cavaleiro protagonistas_19: -738355012
+      Mago-Cavaleiro protagonistas_38: 1469555785
+      Mago-Cavaleiro protagonistas_64: -90450344
+      Mago-Cavaleiro protagonistas_32: -1574232536
+      Mago-Cavaleiro protagonistas_80: -1395678310
+      Mago-Cavaleiro protagonistas_83: 965474733
+      Mago-Cavaleiro protagonistas_58: 1429826737
+      Mago-Cavaleiro protagonistas_87: -387744136
+      Mago-Cavaleiro protagonistas_7: -1752293789
+      Mago-Cavaleiro protagonistas_11: -1256190212
+      Mago-Cavaleiro protagonistas_30: 761875880
+      Mago-Cavaleiro protagonistas_50: -62918323
+      Mago-Cavaleiro protagonistas_89: 2130481531
+      Mago-Cavaleiro protagonistas_65: -1567843721
+      Mago-Cavaleiro protagonistas_25: 750802284
+      Mago-Cavaleiro protagonistas_33: -910366822
+      Mago-Cavaleiro protagonistas_41: 2089820505
+      Mago-Cavaleiro protagonistas_66: -1875136972
+      Mago-Cavaleiro protagonistas_77: 252345852
+      Mago-Cavaleiro protagonistas_10: -1377351816
+      Mago-Cavaleiro protagonistas_68: 1467743426
+      Mago-Cavaleiro protagonistas_45: -360234076
+      Mago-Cavaleiro protagonistas_57: 1761798023
+      Mago-Cavaleiro protagonistas_9: 1975016174
+      Mago-Cavaleiro protagonistas_17: -1609589508
+      Mago-Cavaleiro protagonistas_23: -37564172
+      Mago-Cavaleiro protagonistas_69: -201348214
+      Mago-Cavaleiro protagonistas_92: 832853786
+      Mago-Cavaleiro protagonistas_1: -1897879175
+      Mago-Cavaleiro protagonistas_21: 681882330
+      Mago-Cavaleiro protagonistas_36: 1884515552
+      Mago-Cavaleiro protagonistas_70: 1974072720
+      Mago-Cavaleiro protagonistas_37: 805640026
+      Mago-Cavaleiro protagonistas_46: 1170475173
+      Mago-Cavaleiro protagonistas_35: -257921661
+      Mago-Cavaleiro protagonistas_12: 1408012489
+      Mago-Cavaleiro protagonistas_95: 1922713226
+      Mago-Cavaleiro protagonistas_76: -598656539
+      Mago-Cavaleiro protagonistas_26: -1945591651
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
