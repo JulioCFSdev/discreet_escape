@@ -1,4 +1,4 @@
-# discreet_escape
+# DISCREET_ESCAPE
 
  ![image](https://user-images.githubusercontent.com/90019843/172727754-4c3b9897-1afc-4ae0-b3aa-409a793836db.png)
 
